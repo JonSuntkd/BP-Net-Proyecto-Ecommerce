@@ -6089,11 +6089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Test\\Curso.ComercioElectronico.Test.csproj",
+      "projectUniqueName": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\BP-Net-Proyecto-Ecommerce\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Test\\Curso.ComercioElectronico.Test.csproj",
       "projectName": "Curso.ComercioElectronico.Test",
-      "projectPath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Test\\Curso.ComercioElectronico.Test.csproj",
+      "projectPath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\BP-Net-Proyecto-Ecommerce\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Test\\Curso.ComercioElectronico.Test.csproj",
       "packagesPath": "C:\\Users\\familia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Test\\obj\\",
+      "outputPath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\BP-Net-Proyecto-Ecommerce\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\familia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6110,8 +6110,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Dominio\\Curso.ComercioElectronico.Dominio.csproj": {
-              "projectPath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Dominio\\Curso.ComercioElectronico.Dominio.csproj"
+            "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\BP-Net-Proyecto-Ecommerce\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Dominio\\Curso.ComercioElectronico.Dominio.csproj": {
+              "projectPath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\BP-Net-Proyecto-Ecommerce\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Dominio\\Curso.ComercioElectronico.Dominio.csproj"
             }
           }
         }

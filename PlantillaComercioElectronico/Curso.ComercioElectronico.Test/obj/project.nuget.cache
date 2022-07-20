@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u/URC59nZ9/g3tl+nvmvR/UEEwBt7C+XE/kvSPIT740WJi3dKvwjt0MDq1oCsC5R4oQFESRP9/bya1egKZ9SIA==",
+  "dgSpecHash": "pAgZ+6NKzdS+R3I/F6oNoPyJwPCIwvinLwK1LDeQZjNdkoMyk2WG5i1NfEC2G3Mgm5r2bxDVf5eP/60PEii54g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Test\\Curso.ComercioElectronico.Test.csproj",
+  "projectFilePath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\BP-Net-Proyecto-Ecommerce\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Test\\Curso.ComercioElectronico.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\familia\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\familia\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

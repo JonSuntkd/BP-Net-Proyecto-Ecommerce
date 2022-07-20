@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6KBIt8B+XsoDkErx0BRJWx65eHM1uyyfyypcuHlGgz/S77zU/RcOMF/9U+0bHYvJoCnv5z7ZNMhC+JWz8XDlEg==",
+  "dgSpecHash": "I4JMxMXV9Pb4kEf5MS33m7zfbmtkOuT4590OzTTjEgE4PWQAxz8hmmFsSMKWXbIPgGcjPd2HfzcEBQE1AzV9Zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Dominio\\Curso.ComercioElectronico.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\BP-Net-Proyecto-Ecommerce\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Dominio\\Curso.ComercioElectronico.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\familia\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\familia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

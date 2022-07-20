@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wDx63bWOo5JHhGe/AsGOlOYZPVNd1mwE3KNtkz6Xu33D8n5HPRL1dagWbUPo0A7UPQfpUATt3QWcc76Pogeiuw==",
+  "dgSpecHash": "qdPVe3lwy6yGS+vhyM6mFOl5x5XpTvqG5xtYYTef8pFlZA8d3H2WGDU07JdIRsqJo7sR4xybxuq1dVoYDqcPkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Infraestructura\\Curso.ComercioElectronico.Infraestructura.csproj",
+  "projectFilePath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\BP-Net-Proyecto-Ecommerce\\PlantillaComercioElectronico\\Curso.ComercioElectronico.Infraestructura\\Curso.ComercioElectronico.Infraestructura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\familia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\familia\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

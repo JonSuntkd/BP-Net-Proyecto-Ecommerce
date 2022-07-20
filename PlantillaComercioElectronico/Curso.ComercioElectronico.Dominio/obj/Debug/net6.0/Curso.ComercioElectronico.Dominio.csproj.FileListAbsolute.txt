@@ -58,3 +58,15 @@ C:\Users\familia\Documents\BancoPichincha\ProyectoV1\PlantillaComercioElectronic
 C:\Users\familia\Documents\BancoPichincha\ProyectoV1\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\obj\Debug\net6.0\refint\Curso.ComercioElectronico.Dominio.dll
 C:\Users\familia\Documents\BancoPichincha\ProyectoV1\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\obj\Debug\net6.0\Curso.ComercioElectronico.Dominio.pdb
 C:\Users\familia\Documents\BancoPichincha\ProyectoV1\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\obj\Debug\net6.0\ref\Curso.ComercioElectronico.Dominio.dll
+C:\Users\familia\Documents\BancoPichincha\ProyectoV1\BP-Net-Proyecto-Ecommerce\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\bin\Debug\net6.0\Curso.ComercioElectronico.Dominio.deps.json
+C:\Users\familia\Documents\BancoPichincha\ProyectoV1\BP-Net-Proyecto-Ecommerce\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\bin\Debug\net6.0\Curso.ComercioElectronico.Dominio.dll
+C:\Users\familia\Documents\BancoPichincha\ProyectoV1\BP-Net-Proyecto-Ecommerce\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\bin\Debug\net6.0\Curso.ComercioElectronico.Dominio.pdb
+C:\Users\familia\Documents\BancoPichincha\ProyectoV1\BP-Net-Proyecto-Ecommerce\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\obj\Debug\net6.0\Curso.ComercioElectronico.Dominio.csproj.AssemblyReference.cache
+C:\Users\familia\Documents\BancoPichincha\ProyectoV1\BP-Net-Proyecto-Ecommerce\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\obj\Debug\net6.0\Curso.ComercioElectronico.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\familia\Documents\BancoPichincha\ProyectoV1\BP-Net-Proyecto-Ecommerce\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\obj\Debug\net6.0\Curso.ComercioElectronico.Dominio.AssemblyInfoInputs.cache
+C:\Users\familia\Documents\BancoPichincha\ProyectoV1\BP-Net-Proyecto-Ecommerce\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\obj\Debug\net6.0\Curso.ComercioElectronico.Dominio.AssemblyInfo.cs
+C:\Users\familia\Documents\BancoPichincha\ProyectoV1\BP-Net-Proyecto-Ecommerce\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\obj\Debug\net6.0\Curso.ComercioElectronico.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\familia\Documents\BancoPichincha\ProyectoV1\BP-Net-Proyecto-Ecommerce\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\obj\Debug\net6.0\Curso.ComercioElectronico.Dominio.dll
+C:\Users\familia\Documents\BancoPichincha\ProyectoV1\BP-Net-Proyecto-Ecommerce\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\obj\Debug\net6.0\refint\Curso.ComercioElectronico.Dominio.dll
+C:\Users\familia\Documents\BancoPichincha\ProyectoV1\BP-Net-Proyecto-Ecommerce\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\obj\Debug\net6.0\Curso.ComercioElectronico.Dominio.pdb
+C:\Users\familia\Documents\BancoPichincha\ProyectoV1\BP-Net-Proyecto-Ecommerce\PlantillaComercioElectronico\Curso.ComercioElectronico.Dominio\obj\Debug\net6.0\ref\Curso.ComercioElectronico.Dominio.dll

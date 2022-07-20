@@ -27,7 +27,7 @@ namespace Curso.ComercioElectronico.WebApi.Controllers
         {
 
             //1. Validar User.
-            var userTest = "foo";
+            var userTest = "jjsuntaxi";
             if (input.UserName != userTest || input.Password != "123")
             {
                 throw new AuthenticationException("User or Passowrd incorrect!");

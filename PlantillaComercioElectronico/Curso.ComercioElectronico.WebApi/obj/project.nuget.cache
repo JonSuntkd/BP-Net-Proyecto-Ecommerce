@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v1y8GSNLIxJqpMZNVlYy/GU9BWEH/747T4Ir1CXmJcuQfKa6qHaJwLp/+DMfqM8HuxBJ+x3xcDeVIfJLTUnV2A==",
+  "dgSpecHash": "+I48DF4SU/AYzY8u7mD94Systcu6V9fgVp9VIdyyzyLZW8s+x1MBygn4hlgUSRUth1brpl2pzXLlSWNb6tGWxQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\PlantillaComercioElectronico\\Curso.ComercioElectronico.WebApi\\Curso.ComercioElectronico.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\familia\\Documents\\BancoPichincha\\ProyectoV1\\BP-Net-Proyecto-Ecommerce\\PlantillaComercioElectronico\\Curso.ComercioElectronico.WebApi\\Curso.ComercioElectronico.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\familia\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\familia\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
